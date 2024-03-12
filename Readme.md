@@ -41,4 +41,5 @@ The general structure should be:
 - Create Python virtual environment
 
 $ pip install -r requirements/dev.txt
+
 $ pytest --create-db
