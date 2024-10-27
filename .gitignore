@@ -15,6 +15,7 @@ pom.xml.asc
 /.nrepl-port
 /.prepl-port
 /.cpcache
+/.ropeproject
 
 *.pot
 *.pyc
